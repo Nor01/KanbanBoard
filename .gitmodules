@@ -1,0 +1,3 @@
+[submodule "kb_backend"]
+	path = kb_backend
+	url = https://github.com/Nor01/kb_backend.git
